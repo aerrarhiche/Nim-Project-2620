@@ -1,2 +1,4 @@
 # Project-2620
-Code for Nim Language
+This repo is made for sample programs regarding my project for Nim Language.
+
+All code listed was written by me.
